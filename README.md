@@ -3,44 +3,56 @@
 
 # Lucas
 
-**Sistemas de Informação · UnDF**
+### Sistemas de Informação · UnDF
 
-Estudando programação e análise de dados.
+Programação • Análise de Dados
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=4493F8&center=true&vCenter=true&width=500&lines=Python+%7C+C+%7C+SQL;Estudando+programa%C3%A7%C3%A3o+e+dados;Construindo+projetos+na+pr%C3%A1tica" alt="Apresentação animada">
 
 </div>
 
 ---
 
-### Sobre
-
-- 🎓 Sistemas de Informação — UnDF
-- 📊 Trilha de Analista de Dados com Python — DataCamp
-- 💻 Estudos em Python, C e SQL
-- 📈 Explorando Excel e Power BI
-
-### Projetos
-
-| Repositório | Descrição |
-|---|---|
-| [Exercícios Beecrowd](https://github.com/Lawan1227) | Prática de lógica e resolução de problemas |
-| Análise de Dados | Em desenvolvimento |
-
-### GitHub
+### `01` · Tecnologias
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lawan1227&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Estatísticas do GitHub">
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawan1227&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Linguagens mais utilizadas">
+<img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,vscode&theme=dark" alt="Tecnologias de programação">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+
+</div>
+
+### `02` · Atualmente
+
+- Sistemas de Informação — UnDF
+- Trilha de Analista de Dados com Python — DataCamp
+- Estudos de Python, C, SQL, Excel e Power BI
+
+### `03` · Projetos
+
+| Projeto | Descrição |
+|:--|:--|
+| [Exercícios de programação](https://github.com/Lawan1227?tab=repositories) | Resolução de problemas e prática de lógica |
+| Análise de dados | Projetos em desenvolvimento |
+
+### `04` · GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lawan1227&show_icons=true&hide_border=true&bg_color=00000000&title_color=4493F8&icon_color=4493F8&text_color=888888" alt="Estatísticas do GitHub">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lawan1227&layout=compact&hide_border=true&bg_color=00000000&title_color=4493F8&text_color=888888&langs_count=6" alt="Linguagens mais utilizadas">
+
 </div>
 
 <div align="center">
-  <sub>Atualizado conforme avanço nos estudos e projetos.</sub>
+
+<a href="https://github.com/Lawan1227?tab=repositories">Repositórios</a> · <a href="https://github.com/Lawan1227">GitHub</a>
+
 </div>
