@@ -1,6 +1,6 @@
 <!-- Banner (substitua os links se quiser personalizar as cores) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D9E&height=180&section=header&text=Lawan&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Banner Lawan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D9E&height=180&section=header&text=Lawan&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Banner Lucas" />
 </p>
 
 <!-- Texto animado (substitua as linhas se quiser mudar as frases) -->
@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Analista+de+Dados+em+forma%C3%A7%C3%A3o;Apaixonado+por+Python+e+resolu%C3%A7%C3%A3o+de+problemas" alt="Typing SVG" />
 </p>
 
-## 👋 Olá, eu sou o Lawan!
+## 👋 Olá, eu sou o Lucas!
 
 Sou estudante de **Sistemas de Informação** na **UnDF** e estou me aprofundando em **Análise de Dados com Python** pela **DataCamp**. Gosto de resolver problemas com código, explorar bancos de dados e transformar aprendizado em projetos reais.
 
