@@ -1,6 +1,6 @@
 <!-- Banner (substitua os links se quiser personalizar as cores) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D9E&height=180&section=header&text=Lawan&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Banner Lucas" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F3D9E&height=180&section=header&text=Lucas&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Banner Lucas" />
 </p>
 
 <!-- Texto animado (substitua as linhas se quiser mudar as frases) -->
